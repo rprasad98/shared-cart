@@ -1,7 +1,6 @@
 # Shared Cart 
 
-Brief description of your project.
-
+Creating a shared cart where family members / friends can create a common cart to buy things \
 ## Prerequisites
 - Java 21
 - Maven
